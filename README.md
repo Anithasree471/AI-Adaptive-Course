@@ -16,7 +16,7 @@ The application is designed to simplify the learning process by reducing the tim
 - User authentication system
 - Learning progress tracking
 - Admin dashboard for monitoring user performance
-- MongoDB database integration
+- SQLite database integration
 
 ---
 
@@ -34,7 +34,7 @@ The application is designed to simplify the learning process by reducing the tim
 - REST API
 
 ### Database
-- SQL/PLSQL
+- SQLite
 
 ### APIs & Tools
 - YouTube Data API
